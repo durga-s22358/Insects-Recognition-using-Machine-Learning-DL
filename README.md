@@ -37,3 +37,68 @@ Dataset → Preprocessing → Model Training → Prediction → GUI Output
 ---
 
 ## 📂 Project Structure
+
+Insect-Recognition-ML/
+│
+├── dataset/ # Sample images (not full dataset)
+├── model/
+│ └── insect_model.h5 # Trained model
+│
+├── src/
+│ ├── train.py
+│ ├── predict.py
+│ └── preprocessing.py
+│
+├── gui/
+│ └── app.py # Tkinter GUI
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
+
+---
+
+## 📊 Model Details
+- Model Type: Convolutional Neural Network (CNN)  
+- Input Size: 224x224 images  
+- Training Technique: Data Augmentation  
+- Optimizer: Adam  
+- Loss Function: Categorical Crossentropy  
+
+---
+
+## 🖼️ Output
+See screenshots
+
+---
+
+## 📈 Performance
+- Accuracy: ~90% (depends on dataset)
+- Real-time prediction supported
+
+---
+
+## 🔮 Future Scope
+- 📱 Mobile App Integration  
+- ☁️ Cloud Deployment (AWS / Flask API)  
+- 🔍 More insect species classification  
+- 🎥 Advanced real-time video detection  
+
+---
+
+## 🙋‍♀️ Author
+**Durga Shelke**  
+(Pune, India)
+
+---
+
+## 📜 License
+This project is for educational purposes only.
+
+---
+
+## ⭐ Acknowledgment
+- Open-source datasets from Kaggle  
+- Deep learning frameworks and community support  
