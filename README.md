@@ -1,8 +1,3 @@
-# Insects-Recognition-using-Machine-Learning 
-Developed an Insect Recognition System using CNN-based Deep Learning models to classify insect species from images. Implemented image preprocessing, data augmentation, and real-time detection using webcam. Built an interactive GUI using Tkinter for user-friendly prediction display, achieving high accuracy on custom dataset
-
-
-
 # 🐞 InsectVision  – Insect Recognition using Machine Learning
 
 ## 📌 Overview
@@ -97,6 +92,7 @@ See screenshots
 ## 📜 License
 This project is for educational purposes only.
 
+Developed an Insect Recognition System using CNN-based Deep Learning models to classify insect species from images. Implemented image preprocessing, data augmentation, and real-time detection using webcam. Built an interactive GUI using Tkinter for user-friendly prediction display, achieving high accuracy on custom dataset
 ---
 
 ## ⭐ Acknowledgment
